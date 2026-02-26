@@ -1,27 +1,25 @@
-# Jokenpô (Pedra, Papel e Tesoura) 🎮
+## ​🐍 Repositório de Estudos: Python
 
-Este é um projeto clássico de "Pedra, Papel e Tesoura" desenvolvido em **Python**. O programa simula uma partida contra o computador, utilizando lógica de condições e geração de números aleatórios.
+Este repositório serve como meu "laboratório" pessoal de Python. Aqui guardo desde scripts de automação simples até projetos mais complexos, exercícios de lógica e experimentos com bibliotecas diversas.
 
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-## 🚀 Funcionalidades
+​Para o desenvolvimento dos códigos deste repositório, utilizo principalmente:
 
-* **Escolha Aleatória:** O computador decide sua jogada de forma randômica.
-* **Animação no Terminal:** Uso da biblioteca `time` para criar pausas dramáticas (JO-KEN-PÔ!).
-* **Tratamento de Dados:** O sistema valida se o usuário digitou uma opção válida ou se inseriu caracteres não numéricos.
-* **Interface Limpa:** Organização visual no terminal usando caracteres especiais.
+​Python 3.x
 
-## 🛠️ Tecnologias Utilizadas
+​Pip (Gerenciador de pacotes)
 
-* **Linguagem:** Python 3
-* **Módulos Nativos:**
-    * `random`: Para gerar a jogada do computador.
-    * `time`: Para as pausas de delay no texto.
+​Editor: VS Code ou PyCharm
 
-## 📋 Como Jogar
+---
 
-1. Certifique-se de ter o Python instalado.
-2. Clone ou baixe o arquivo `jokenpo.py`.
-3. Execute o script no seu terminal ou prompt de comando:
-   ```bash
-   python jokenpo.py
+## ​📫 Contato
+
+Instagram: [<a href="https://instagram.com/Wil_lians0">Wil_lians0</a>]
+
+​Email: [<a href="mailto:williams.a@escolar.ifrn.edu.br">williams.a@escolar.ifrn.edu.br</a>]
+
+---
